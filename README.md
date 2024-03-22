@@ -30,7 +30,7 @@ A coding enthusiast.
 
 ## 📫 How to Reach Me
 
-- [Email](sh4dowxph4ntom@gmail.com)
+- [Email](mailto:sh4dowxph4ntom@gmail.com)
 
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">

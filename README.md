@@ -1,4 +1,8 @@
+<hr>
+
 # Hi, I'm Shadow 👋
+
+<br>
 
 ## 🚀 About Me
 
